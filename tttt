@@ -1,0 +1,13 @@
+#sudo xcode-select --install
+#brew install gcc
+Software Update
+brew upgrade
+brew upgrade pyenv
+#brew install pyenv
+
+#If that doesn't show you any updates, run:
+#  sudo rm -rf /Library/Developer/CommandLineTools
+#  sudo xcode-select --install
+
+#The default interactive shell is now zsh.
+#To update your account to use zsh, please run `chsh -s /bin/zsh
